@@ -1,15 +1,15 @@
-# tets
+# README-Generator
 
   [MIT License](https://opensource.org/licenses/MIT)
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Title
-  tets
+  README-Generator
 
   ## Description
   
-  test
+  This project explores Node.js and how i can utilize it for the future in this  cahallange .  s
   
   ## Table of Contents
   
@@ -23,11 +23,11 @@
   
   ## Installation
   
-  test
+  to install go to https://github.com/blastking2510/
   
   ## Usage
   
-  test
+  it is a github repository for a readme-generator
   
   ## License
   
@@ -37,17 +37,17 @@
   
   ## Contributing
   
-  test
+  
   
   ## Tests
   
-  test
+  to use correctly use node.js in the terminal
   
   ## Questions
   
   If you have any questions, please feel free to reach out to me via GitHub or email:
   
-  GitHub: [test](https://github.com/test)
+  GitHub: [blastking2510](https://github.com/blastking2510)
   
-  Email: test
+  Email: blastking2510@gmail.com
 
